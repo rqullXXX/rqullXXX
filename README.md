@@ -1,4 +1,4 @@
-A<h1 align="center">Hi 👋, I'm M.Rizqullah</h1>
+<h1 align="center">Hi 👋, I'm M.Rizqullah</h1>
 <h3 align="center">I am from Indonesia</h3>
 
 - 🔭 I’m currently studing on [Bumigora University](https://www.universitasbumigora.ac.id/)
